@@ -3,9 +3,10 @@ import Component1 from "./Component1";
 
 const App = () =>  {
 
-
+  console.log("test")
 
   return (
+    
     <div>
       <Component1/> 
 
