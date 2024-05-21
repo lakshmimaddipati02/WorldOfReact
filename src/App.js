@@ -7,7 +7,7 @@ const App = () =>  {
 
   return (
     <div>
-      <Component1/>
+      <Component1/> 
 
     </div>
   );
